@@ -1,0 +1,9 @@
+body{
+   background-color: powderblue; 
+}
+
+article {
+   display: flex;
+   justify-content: center;
+   padding: 10%;
+}
